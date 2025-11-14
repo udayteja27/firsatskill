@@ -117,9 +117,7 @@ npm start
 
 ---
 
-## 🚢 Deployment (Vercel)
 
-Deployment Link:- https://first-skill-nxtwave-assignment-armbgjblr.vercel.app/
 
 ---
 
